@@ -1,0 +1,8 @@
+Feedback
+- Nên update lại cách hiển thị error message
+- Kiểm tra/fix bug validate ngày hẹn
+- Apply bootstrap
+Thêm mới:
+- Chuyển hết validation on submit thành validation on blur
+- Họ tên --> Validate required. Prevent typing number
+- Thêm field số điện thoại (Text), --> làm tương tự field họ tên nhưng mà ngược lại. Prevent nhập chữ, chỉ cho nhập số
